@@ -1,0 +1,6 @@
+1. Télécharger le jeu de données relatif à la vaccination COVID-19 depuis Kaggle : https://www.kaggle.com/sinakaraji/covid-vaccination-vs-death
+2. Créer une application Spark avec Scala afin d'analyser le dataset
+3. Afficher le nombre de vaccinés par pays
+4. Afficher les 4 premiers pays en terme de vaccination
+5. Afficher le nombre de morts par pays
+6. Afficher le nombre de vaccinés par mois
